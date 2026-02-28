@@ -1,0 +1,9 @@
+{
+  "packs": [
+    {
+      "id": "my-kit-1",
+      "name": "My Kit 1",
+      "files": ["kick.wav", "snare.wav", "hihat.wav", "oh.wav"]
+    }
+  ]
+}
